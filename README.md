@@ -1,1 +1,3 @@
-<img src="/final.png" />
+## Resultado Final
+
+<img src="./public/final.png" />
